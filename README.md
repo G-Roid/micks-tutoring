@@ -16,7 +16,7 @@ Static website which focuses on separations of concerns. The HTML and CSS are co
 <h2 align="center">Techs used:</h2>
 <br>
 <div align="center">
-	
+	<!--  -->
 	&nbsp&nbsp&nbsp
 	<img src="https://github.com/G-Roid/G-Roid/blob/main/Tech%20Skills/css3-alt.svg" height="50px">
 	&nbsp&nbsp&nbsp
