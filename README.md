@@ -1,6 +1,6 @@
-<h1 align="center">Micks Tutoring | <a href="#">Visit here!</a></h1>
+<h1 align="center">Micks Tutoring | <a href="https://g-roid.github.io/micks-tutoring/">Visit here!</a></h1>
 <div align="center">
-  <a href='#'>
+  <a href='https://g-roid.github.io/micks-tutoring/'>
 	  <img src="https://github.com/G-Roid/G-Roid/blob/main/assets/micks-tutoring.gif" width="100%" />
   </a>
 </div>
@@ -16,7 +16,7 @@ Static website which focuses on separations of concerns. The HTML and CSS are co
 <h2 align="center">Techs used:</h2>
 <br>
 <div align="center">
-	<!-- <img src="https://github.com/Ethodeus/readme-assets/blob/master/GitHub%20Profile/Tech%20Skills/js-square.svg" height="50px"> -->
+	<!--  -->
 	&nbsp&nbsp&nbsp
 	<img src="https://github.com/G-Roid/G-Roid/blob/main/Tech%20Skills/css3-alt.svg" height="50px">
 	&nbsp&nbsp&nbsp
