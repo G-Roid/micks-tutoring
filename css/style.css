@@ -215,7 +215,7 @@ header nav a.bookings {
 
 main {
 	background: url(../assets/images/hero_image.jpg) no-repeat;
-	background-size: contain;
+	background-size: cover;
 	width: 100vw;
 	height: auto;
 	padding: 14rem 0 5rem 20rem;
