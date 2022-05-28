@@ -32,5 +32,5 @@ I encounter issues when including the icons for each service. The font awesome d
 
 ## Lessons Learned:
 
-The developer tools allowed me to view the website at different device resolutions. I was able to include media queries to change to displayed content.  
+The developer tools allowed me to view the website at different device resolutions. I was able to include media queries to change the displayed content.  
 
